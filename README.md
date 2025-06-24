@@ -1,4 +1,5 @@
 # Credit Default Prediction Using UCI Dataset  
+![Dashboard](https://github.com/ShaikhBorhanUddin/Credit-Default-Prediction-Using-UCI-Dataset/blob/main/Assets/title.png?raw=true)  
 
 ## Overview  
 
